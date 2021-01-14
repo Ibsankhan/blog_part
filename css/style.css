@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.blog_part{
+padding:135px 0px;
+    background-color:#ffffff;
+}
+.container{
+    width:1140px;
+    margin:0 auto;
+}
+.header h1{
+    font-family: 
+    font-size:48px;
+    color:#0f358e;
+    line-height: 62px;
+    margin-bottom: 18px;
+}
+.header p{
+    font-size:20px;
+    color:#595f6f;
+    line-height: 28px;
+    margin-bottom: 90px;
+}
+.technology{
+    background-color:#fcfcfc;
+    box-shadow: 5px 10px 10px #cacaca;
+    padding-right: 30px;
+    transition:all 0.3s;
+    padding-bottom: 25px;
+    padding-left:30px;
+}
+.technology:hover{
+    transform: translateY(6px) scale(1.05);
+    
+}
+.tecnology .image{
+  width:360px;
+
+}
+.span{
+    margin-top: 25px;
+}
+.span p{
+    font-size:12px;
+    color:#595f6f;
+}
+.image img{
+    width:100%;
+}
+.text h2{
+    font-size:18px;
+        color:#1a47b0;
+    margin-top: 14px;
+    margin-bottom: 12px;
+}
+.text p{
+    font-size:14px;
+    line-height:18px;
+    color:#595f6f;
+    margin-bottom: 25px;
+}
+.btn{
+    margin-top: 35px;
+    
+}
+.btn a{
+    padding:18px 110px;
+    font-size:16px;
+    color:#ffffff;
+    text-decoration:none;
+    background-color: #0d2764;
+    text-transform: capitalize;
+    border-radius: 7px;
+    transition:all 0.4s;
+    border:1px solid transparent;
+}
+.btn .special{
+    background-color:#fa2b56;
+}
+.btn a:hover{
+    border:3px solid #fa2b56 ;
+    background-color: #014ee3;
+    color:#f91c3d;
+}
+
+/*second_part start*/
+
+
+.icon{
+ 
+}
+.icon li{
+    list-style-type: none;
+    margin-right: 25px;
+}
+.icon li a{
+    text-decoration: none;
+    font-size:12px;
+    color:#595f6f;
+    text-transform: capitalize;
+}
+.icon li i{
+    color:#bfc4ce;
+    
+}
+.read{
+    transition: 0.3s;
+    font-family: 'Roboto', sans-serif;
+}
+.read:hover{
+    color:#fa2b56;
+    font-size:16px;
+}
+/*second_part end*/
+
+/*third part start*/
+.imge{
+    width:550px;
+    max-height: 520px;
+    overflow: hidden;
+    box-shadow: 5px 10px 10px #071639;
+}
+.imge img{
+    width:100%;
+}
+.third_part{
+padding:135px 0px;
+background-image: linear-gradient(#123074 , #123074);
+}
+.second{
+    padding:50px 30px;
+
+}
+.second p{
+    font-size:12px;
+        color:#709be7;
+    margin-bottom:45px; 
+    text-transform: uppercase;
+}
+.second h2{
+    font-size:38px;
+    color:#ffffff;
+    margin-bottom:25px; 
+}
+
+.second h3{
+    font-size:18px;
+    color:#ffffff;
+    line-height:23px;
+    margin-bottom:30px;
+}
+.reed{
+    padding-left:30px;
+}
+.reed a{
+    padding:18px 90px;
+    font-size:16px;
+    color:#ffffff;
+    text-decoration:none;
+    background-color: #fa2b56;
+    text-transform: capitalize;
+    border-radius: 7px;
+    transition:all 0.4s;
+    border:1px solid transparent;
+}
+.reed a:hover{
+    border:3px solid #fa2b56 ;
+    background-color: #ffffff;
+    color:#f91c3d;
+}
+/*third part end*/
+
+
+/*fourth part start*/
+.textual{
+    padding-top:40px;
+    padding-right: 45px;
+}
+.textual h2{
+    font-size:48px;
+    color:#0f358e;
+    margin-bottom: 30px; 
+}
+.textual p{
+    font-size:12px;
+        color:#595f6f;
+    margin-bottom:35px; 
+    text-transform: uppercase;
+}
+.textual h4{
+    font-size:18px;
+        color:#595f6f;
+    line-height: 23px;
+    margin-bottom:32px; 
+}
+.textimg .photo{
+    height:50px;
+    width:50px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.photo img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.imag{
+    padding-left: 80px;
+    width:456px;
+}
+.imag img{
+    width:100%;
+}
+.textas h5{
+    font-size:18px;
+    color:#0f358e;
+    margin-bottom: 12px;
+    text-transform: capitalize;
+}
+.textas h6{
+    font-size:14px;
+    color:#595f6f;
+   line-height: 18px;
+    text-transform: capitalize;
+    
+}
+
+/*fourth part end*/
+
+/*fift part start*/
+.versual_part{
+    padding:120px 0;
+    background-image: linear-gradient(#123074 , #092056);
+}
+.heading_part .part_menu{
+    width:33%;
+   color:#ffffff;
+}
+
+.heading_part .uppertext{
+    width:33%;
+    text-align: center;
+    color:#ffffff;
+}
+.uppertext .day{
+    width:8px;
+    height: 8px;
+    background-color: #f92349;
+    border-radius: 50%;
+}
+
+.heading_part .fontawesome{
+     width:33%;
+     padding-left: 250px;
+}
+
+
+/*fift part end*/
+
+
